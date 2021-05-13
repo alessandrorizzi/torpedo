@@ -19,7 +19,7 @@ Possible options are:
 * `-i <filename prefix>`: write the input passed to the external solver in files with a given prefix.
 * `-l <filename prefix>`: write the external solver output in files with a given prefix.
 * `-o <filename>`: write the parts of the PKS needed for the property to hold to the given filename.
-* `-s solver`: external solver to be used. Possible choices are `pltlmup` and `hybrid`.
+* `-s solver [bound]`: external solver to be used. Possible choices are `pltlmup`, `hybrid` and `z3`. The bound parameter is only allowed (and required) for `z3`.
 * `-t <filename>`: write the parts of the PKS needed for the property to hold to the given filename as a PKS slice.
 
 Run `java -jar target/scala-2.12/torpedo.jar recheck <PKS XML file> <PKS Slice file>` to
