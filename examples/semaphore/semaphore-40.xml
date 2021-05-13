@@ -1,0 +1,464 @@
+<gxl xmlns:xbel='www.cs.toronto.edu/xbel' xmlns:xlink='xlink'>
+	<graph ID='semaphore' edgemode='directed'>
+
+		<node ID='s0' xbel:initial='true'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_40'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_39'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_38'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s0_37'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_40_36'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_35'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_38_34'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2_39_33'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_32'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s0_40_36_31'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_30'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_40_29'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_35_28'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_40_27'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1_38_34_26'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2_39_25'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_40_36_31_24'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_37_23'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_22'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_21'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s1_38_20'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s0_19'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1_38_18'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2_17'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_32_16'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2_35_15'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_37_14'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_19_13'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_37_12'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1_32_11'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s0_40_29_10'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_39_25_9'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_8'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2_39_25_7'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_30_6'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1_32_16_5'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s1_32_11_4'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s0_30_3'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1_38_2'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s0_37_12_1'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<edge from='s0_40' to='s2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37' to='s2_39_33'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_39_33' to='s0_40_36'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0' to='s1_32'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_39' to='s0_40_36_31'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_36_31' to='s1_38_34'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1' to='s0_30'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_30' to='s2_39'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2' to='s0_40_29'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_29' to='s1_38'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_36' to='s2_35_28'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_35_28' to='s0_40'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_35' to='s0_40_27'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_36' to='s1_38_34_26'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0' to='s2_39_25'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_39_25' to='s0_40_36_31_24'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_36_31_24' to='s2_35'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_36_31_24' to='s1_38_34'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_38_34' to='s0_37_23'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_23' to='s2_39_33'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_27' to='s2_22'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_22' to='s0_40_29'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_23' to='s1_21'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40' to='s1_38_20'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_38_20' to='s0_37'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_32' to='s0_19'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_27' to='s1_38_18'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_38_18' to='s0_37'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_29' to='s2_17'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_19' to='s1_32_16'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_36_31' to='s2_35_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_35_15' to='s0_40_27'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_38_34_26' to='s0_37_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_14' to='s1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_14' to='s2_39_33'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_32_16' to='s0_19_13'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_38' to='s0_37_12'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_12' to='s1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_12' to='s2_39_33'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_32_11' to='s0_19'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_17' to='s0_40_29_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_29_10' to='s2_17'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_19' to='s2_39_25_9'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_39_25_9' to='s0_40_36_31_24'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37' to='s1_8'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_19_13' to='s2_39_25_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_39_25_7' to='s0_40_36_31_24'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_21' to='s0_30_6'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_30_6' to='s2_39'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_30_6' to='s1_32_11'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_19_13' to='s1_32_16_5'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_32_16_5' to='s0_19_13'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_30' to='s1_32_11_4'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_32_11_4' to='s0_19'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_8' to='s0_30_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_30_3' to='s2_39'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_30_3' to='s1_32_11_4'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_40_29_10' to='s1_38_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_38_2' to='s0_37_12_1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_12_1' to='s1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_37_12_1' to='s2_39_33'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+	</graph>
+</gxl>

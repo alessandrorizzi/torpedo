@@ -1,0 +1,142 @@
+<gxl xmlns:xbel='www.cs.toronto.edu/xbel' xmlns:xlink='xlink'>
+	<graph ID='semaphore' edgemode='directed'>
+
+		<node ID='s0' xbel:initial='true'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_10'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s0_9'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_8'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s1_7'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s2_6'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_10_5'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s2_4'>
+			<attr type='prop' name='g' value='M'/>
+			<attr type='prop' name='r' value='M'/>
+		</node>
+		
+		<node ID='s0_9_3'>
+			<attr type='prop' name='g' value='F'/>
+			<attr type='prop' name='r' value='T'/>
+		</node>
+		
+		<node ID='s1_2'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<node ID='s1_7_1'>
+			<attr type='prop' name='g' value='T'/>
+			<attr type='prop' name='r' value='F'/>
+		</node>
+		
+		<edge from='s0_10' to='s1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2' to='s0_9'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0' to='s2_8'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_8' to='s0_9'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_9' to='s1_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_7' to='s0_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_9' to='s2_6'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_6' to='s0_9'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1' to='s0_10_5'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_10_5' to='s1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_10_5' to='s2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_10' to='s2_4'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s2_4' to='s0_9_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_9_3' to='s2_6'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0' to='s1_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_2' to='s0_10_5'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s0_9_3' to='s1_7_1'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+		<edge from='s1_7_1' to='s0_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		
+	</graph>
+</gxl>

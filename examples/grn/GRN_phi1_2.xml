@@ -1,0 +1,783 @@
+<gxl xmlns:xbel='www.cs.toronto.edu/xbel' xmlns:xlink='xlink'>
+	<graph ID='grn' edgemode='directed'>
+
+		<node ID='S00_1' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_2' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_3' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_4' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_5' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_6' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_7' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_8' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_9' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_10' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_11' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_12' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S00_13' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_14' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_15' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S00_16' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_1' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_2' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_3' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_4' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_5' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_6' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_7' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_8' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_9' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_10' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_11' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_12' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S01_13' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_14' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_15' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S01_16' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='F'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+
+		<node ID='S10_1' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_2' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_3' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_4' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_5' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_6' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_7' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_8' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_9' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_10' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_11' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_12' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S10_13' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_14' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_15' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S10_16' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='F'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+
+		<node ID='S11_1' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_2' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_3' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='M'/>
+		</node>
+		
+		<node ID='S11_4' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_5' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_6' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_7' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_8' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_9' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_10' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_11' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_12' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='F'/>
+		</node>
+		
+		<node ID='S11_13' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='F'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_14' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='F'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_15' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='F'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+		
+		<node ID='S11_16' xbel:initial='true'>
+			<attr type='prop' name='Msg5' value='T'/>
+			<attr type='prop' name='Fus3' value='T'/>
+			<attr type='prop' name='Ste7' value='T'/>
+			<attr type='prop' name='Far1' value='T'/>
+			<attr type='prop' name='Ste11' value='T'/>
+			<attr type='prop' name='Dig12' value='T'/>
+		</node>
+
+		<edge from='S00_1' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_2' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_3' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_4' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_5' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_6' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_7' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_8' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_9' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_10' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_11' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_12' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_13' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_14' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_15' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S00_16' to='S00_14'>
+			<attr name='weight' value='T'/>
+		</edge>
+
+
+
+
+		<edge from='S01_1' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_2' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_3' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_4' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_5' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_6' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_7' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_8' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_9' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_10' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_11' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_12' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_13' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_14' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_15' to='S01_7'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S01_16' to='S01_2'>
+			<attr name='weight' value='T'/>
+		</edge>
+
+
+		<edge from='S10_1' to='S10_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_3' to='S10_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_4' to='S10_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_5' to='S10_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_9' to='S10_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_11' to='S10_15'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_2' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_6' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_7' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_8' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_10' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_12' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_13' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_14' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_15' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S10_16' to='S10_10'>
+			<attr name='weight' value='T'/>
+		</edge>
+
+
+		<edge from='S11_1' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_2' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_3' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_4' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_5' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_6' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_7' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_8' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_9' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_10' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_11' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_12' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_13' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_14' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_15' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+		<edge from='S11_16' to='S11_3'>
+			<attr name='weight' value='T'/>
+		</edge>
+
+
+	</graph>
+</gxl>
