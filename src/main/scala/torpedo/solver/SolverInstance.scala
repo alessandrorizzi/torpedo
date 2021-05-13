@@ -24,7 +24,7 @@ trait SolverInstance {
 
   def input : Seq[String];
 
-  def check() : SolverResult
+  def check() : SolverResult;
 
   def topologicalProof : Result[Seq[TPClause]];
 
