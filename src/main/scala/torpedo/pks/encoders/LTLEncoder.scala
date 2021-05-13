@@ -28,7 +28,7 @@ case class LTLEncoder(pks: PartialKripkeStructure) extends Encoder[Clause](pks) 
     val sp = p.values.toArray;
     for(
       i <- Array.range(0, sp.length - 1);
-      j <- Array.range(i+1, sp.length - 1)
+      j <- Array.range(i+1, sp.length)
     ) yield Clause(Before(False, sp(i) & sp(j)), PKSConstraint);
   }
 
